@@ -1,7 +1,7 @@
 {
-  "versionCode": 20001,
-  "versionName": "2.0.1",
-  "apkUrl": "https://github.com/ppcciiss2-ux/korail-macro-updates/releases/download/android-2.0.1/KorailMacro-2.0.1.apk",
-  "sha256": "03A765B9E9A75CB3BAE62E98D8EE6EBCE1B67157EF84CAE3C7567C195ECDDB58",
-  "notes": "코레일 7.1 통신 호환성 개선 및 연결 진단 추가"
+  "versionCode": 20002,
+  "versionName": "2.0.2",
+  "apkUrl": "https://github.com/ppcciiss2-ux/korail-macro-updates/releases/download/android-2.0.2/KorailMacro-2.0.2.apk",
+  "sha256": "75456E451791E046F880927B9073CFCD9E09285217A4E0CB7B9D33639BE83A90",
+  "notes": "코레일 서버 인증서 교체로 발생한 연결 오류 수정"
 }
